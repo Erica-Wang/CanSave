@@ -1,0 +1,6 @@
+framework module Pods_SHAD_Frontend {
+  umbrella header "Pods-SHAD Frontend-umbrella.h"
+
+  export *
+  module * { export * }
+}
